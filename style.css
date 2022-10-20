@@ -21,6 +21,7 @@ header{
     line-height: 100px;
     color: white;
     border-bottom: 3px dashed black;
+    font-weight: 200;
 }
 
 nav{
